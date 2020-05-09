@@ -285,7 +285,7 @@ async def on_message(message):
           [await q.add_reaction(i) for i in ('<:niko_shita:699072695823892561>', '<:uzu2:700858786960900117>')] # for文の内包表記          
 
      elif 28 < m < 30: #29
-          q = await message.channel.send(f"\n:point_right:roll～:game_die:   _(Dice→)_ :two::nine:   \n\n━－☆－━－━－━－━－━－━－☆－━\n→||**Are you a meat lover?**:cut_of_meat: ||\n━－☆－━－━－━－━－━－━－☆－━\n:rainbow:||☆**Congratulations**☆\n\n/tip 29coin 292929.2929 {message.author.mention}   \n :rainbow::cut_of_meat::meat_on_bone::rainbow:||")
+          q = await message.channel.send(f"\n:point_right:roll～:game_die:   _(Dice→)_ :two::nine:   \n\n━－☆－━－━－━－━－━－━－☆－━\n→||**Are you a meat lover?**:cut_of_meat: ||\n━－☆－━－━－━－━－━－━－☆－━\n:rainbow:||☆:rainbow::cut_of_meat: **Congratulations** :meat_on_bone:☆\n\n/tip 29coin 292929.2929 {message.author.mention}     ||")
           [await q.add_reaction(i) for i in ('<:niko_shita:699072695823892561>', '<:uzu2:700858786960900117>')] # for文の内包表記          
 
      elif 29 < m < 31: #30
