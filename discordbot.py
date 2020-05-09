@@ -177,23 +177,23 @@ async def on_message(message):
           [await q.add_reaction(i) for i in ('<:heart02:699580174911668225>', '<:BGPT02:698471366004965406>')] # for文の内包表記
 
      elif 1 < m < 3: #2
-          q = await message.channel.send(f"\n:point_right:roll～:game_die:   _(Dice→)_:two: \n\n-+-+-+-+-+-+-+-+-+-+-+-+-+-+-\n→mini drop:candy: \n-+-+-+-+-+-+-+-+-+-+-+-+-+-+-\n\n/tip GDRH 33 {message.author.mention}    :rainbow:")
+          q = await message.channel.send(f"\n:point_right:roll～:game_die:   _(Dice→)_:two: \n\n-+-+-+-+-+-+-+-+-+-+-+-+-+-+-\n→mini drop:candy: \n-+-+-+-+-+-+-+-+-+-+-+-+-+-+-\n\n/tip GDRH 22 {message.author.mention}    :rainbow:")
           [await q.add_reaction(i) for i in ('<:kanngaeru:699072662382837881>', '🌈')] # for文の内包表記
 
      elif 2 < m < 4: #3
-          q = await message.channel.send(f"\n:point_right:roll～:game_die:   _(Dice→)_ :three: \n\n-+-+-+-+-+-+-+-+-+-+-+-+-+-+-\n→mini drop:candy: \n-+-+-+-+-+-+-+-+-+-+-+-+-+-+-\n\n/tip GDRH 44 {message.author.mention}    :rainbow:")
+          q = await message.channel.send(f"\n:point_right:roll～:game_die:   _(Dice→)_ :three: \n\n-+-+-+-+-+-+-+-+-+-+-+-+-+-+-\n→mini drop:candy: \n-+-+-+-+-+-+-+-+-+-+-+-+-+-+-\n\n/tip GDRH 33 {message.author.mention}    :rainbow:")
           [await q.add_reaction(i) for i in ('<:kanngaeru:699072662382837881>', '🌈')] # for文の内包表記
 
      elif 3 < m < 5: #4
-          q = await message.channel.send(f"\n:point_right:roll～:game_die:   _(Dice→)_ :four: \n\n-+-+-+-+-+-+-+-+-+-+-+-+-+-+-\n→mini drop:candy: \n-+-+-+-+-+-+-+-+-+-+-+-+-+-+-\n\n/tip GDRH 55 {message.author.mention}    :rainbow:")
+          q = await message.channel.send(f"\n:point_right:roll～:game_die:   _(Dice→)_ :four: \n\n-+-+-+-+-+-+-+-+-+-+-+-+-+-+-\n→mini drop:candy: \n-+-+-+-+-+-+-+-+-+-+-+-+-+-+-\n\n/tip GDRH 44 {message.author.mention}    :rainbow:")
           [await q.add_reaction(i) for i in ('<:kanngaeru:699072662382837881>', '🌈')] # for文の内包表記
 
      elif 4 < m < 6: #5
-          q = await message.channel.send(f"\n:point_right:roll～:game_die:   _(Dice→)_:five: \n\n-+-+-+-+-+-+-+-+-+-+-+-+-+-+-\n→mini drop:candy: \n-+-+-+-+-+-+-+-+-+-+-+-+-+-+-\n\n/tip GDRH 66 {message.author.mention}    :rainbow:")
+          q = await message.channel.send(f"\n:point_right:roll～:game_die:   _(Dice→)_:five: \n\n-+-+-+-+-+-+-+-+-+-+-+-+-+-+-\n→mini drop:candy: \n-+-+-+-+-+-+-+-+-+-+-+-+-+-+-\n\n/tip GDRH 55 {message.author.mention}    :rainbow:")
           [await q.add_reaction(i) for i in ('<:kanngaeru:699072662382837881>', '🌈')] # for文の内包表記          
         
      elif 5 < m < 7: #6
-          q = await message.channel.send(f"\n:point_right:roll～:game_die:   _(Dice→)_ :six:  \n\n・。・。・。・。・。・。・。・。・。\n→mini drop:lollipop: \n・。・。・。・。・。・。・。・。・。\n\n/tip SEYU 5 {message.author.mention}    :rainbow:")
+          q = await message.channel.send(f"\n:point_right:roll～:game_die:   _(Dice→)_ :six:  \n\n・。・。・。・。・。・。・。・。・。\n→mini drop:lollipop: \n・。・。・。・。・。・。・。・。・。\n\n/tip SEYU 6.6 {message.author.mention}    :rainbow:")
           [await q.add_reaction(i) for i in ('<:hai_kao:699072592987947117>', '<:kaokanga:699072678614663210>')] # for文の内包表記          
 
      elif 6 < m < 8: #7
