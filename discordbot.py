@@ -56,7 +56,7 @@ async def loop():
 
     if now == '02:31':
         channel = client.get_channel(CHANNEL_ID)
-        await channel.send(':robot: ゲームは簡単でサイコロ:game_die:振るだけ！エアドロップCommandは【+】から始まります。半角英数小文字でさて何でしょう！？【+●●●】`+???` \n  :white_check_mark:ヒント①`+`は、元気がなくなってきた国を応援する気持ちのプラス。\n :white_check_mark:ヒント②2020年オリンピックが2021年延期しましたね。でも大丈夫かな？残念だけど仕方ない。/n:white_check_mark:ヒント③その国の通貨を意味します。+●●●ならそのスペルに関係します。以上。\n 周りに教えずにCommand打てば削除して下さいね。残高なくなれば終了する予定です。\n :robot:AirdropRobo専用チャンネルでコマンドは入れてください。\n　回数制限もうけてないから適度な回数でおねがいします。テキドナカイスウデ...:robot:') 
+        await channel.send(':robot: ゲームは簡単でサイコロ:game_die:振るだけ！エアドロップCommandは【+】から始まります。半角英数小文字でさて何でしょう！？【+●●●】`+???` \n  :white_check_mark:ヒント①`+`は、元気がなくなってきた国を応援する気持ちのプラス。\n :white_check_mark:ヒント②2020年オリンピックが2021年延期しましたね。でも大丈夫かな？残念だけど仕方ない。\n:white_check_mark:ヒント③その国の通貨を意味します。+●●●ならそのスペルに関係します。以上。\n 周りに教えずにCommand打てば削除して下さいね。残高なくなれば終了する予定です。\n :robot:AirdropRobo専用チャンネルでコマンドは入れてください。\n　回数制限もうけてないから適度な回数でおねがいします。テキドナカイスウデ...:robot:') 
     
     if now == '02:32':
         channel = client.get_channel(CHANNEL_ID)
@@ -84,7 +84,7 @@ async def loop():
                            
     if now == '07:27':
         channel = client.get_channel(CHANNEL_ID)
-        await channel.send(':robot: ゲームは簡単でサイコロ:game_die:振るだけ！エアドロップCommandは【+】から始まります。半角英数小文字でさて何でしょう！？【+●●●】`+???` \n  :white_check_mark:ヒント①`+`は、元気がなくなってきた国を応援する気持ちのプラス。\n :white_check_mark:ヒント②2020年オリンピックが2021年延期しましたね。でも大丈夫かな？残念だけど仕方ない。/n:white_check_mark:ヒント③その国の通貨を意味します。+●●●ならそのスペルに関係します。以上。\n 周りに教えずにCommand打てば削除して下さいね。残高なくなれば終了する予定です。\n :robot:AirdropRobo専用チャンネルでコマンドは入れてください。\n　回数制限もうけてないから適度な回数でおねがいします。テキドナカイスウデ...:robot:') 
+        await channel.send(':robot: ゲームは簡単でサイコロ:game_die:振るだけ！エアドロップCommandは【+】から始まります。半角英数小文字でさて何でしょう！？【+●●●】`+???` \n  :white_check_mark:ヒント①`+`は、元気がなくなってきた国を応援する気持ちのプラス。\n :white_check_mark:ヒント②2020年オリンピックが2021年延期しましたね。でも大丈夫かな？残念だけど仕方ない。\n:white_check_mark:ヒント③その国の通貨を意味します。+●●●ならそのスペルに関係します。以上。\n 周りに教えずにCommand打てば削除して下さいね。残高なくなれば終了する予定です。\n :robot:AirdropRobo専用チャンネルでコマンドは入れてください。\n　回数制限もうけてないから適度な回数でおねがいします。テキドナカイスウデ...:robot:') 
     
     if now == '07:28':
         channel = client.get_channel(CHANNEL_ID)
@@ -144,7 +144,7 @@ async def loop():
                            
     if now == '12:26':
         channel = client.get_channel(CHANNEL_ID)
-        await channel.send(':robot: ゲームは簡単でサイコロ:game_die:振るだけ！エアドロップCommandは【+】から始まります。半角英数小文字でさて何でしょう！？【+●●●】`+???` \n  :white_check_mark:ヒント①`+`は、元気がなくなってきた国を応援する気持ちのプラス。\n :white_check_mark:ヒント②2020年オリンピックが2021年延期しましたね。でも大丈夫かな？残念だけど仕方ない。/n:white_check_mark:ヒント③その国の通貨を意味します。+●●●ならそのスペルに関係します。以上。\n 周りに教えずにCommand打てば削除して下さいね。残高なくなれば終了する予定です。\n :robot:AirdropRobo専用チャンネルでコマンドは入れてください。\n　回数制限もうけてないから適度な回数でおねがいします。テキドナカイスウデ...:robot:') 
+        await channel.send(':robot: ゲームは簡単でサイコロ:game_die:振るだけ！エアドロップCommandは【+】から始まります。半角英数小文字でさて何でしょう！？【+●●●】`+???` \n  :white_check_mark:ヒント①`+`は、元気がなくなってきた国を応援する気持ちのプラス。\n :white_check_mark:ヒント②2020年オリンピックが2021年延期しましたね。でも大丈夫かな？残念だけど仕方ない。\n:white_check_mark:ヒント③その国の通貨を意味します。+●●●ならそのスペルに関係します。以上。\n 周りに教えずにCommand打てば削除して下さいね。残高なくなれば終了する予定です。\n :robot:AirdropRobo専用チャンネルでコマンドは入れてください。\n　回数制限もうけてないから適度な回数でおねがいします。テキドナカイスウデ...:robot:') 
     
     if now == '12:27':
         channel = client.get_channel(CHANNEL_ID)
