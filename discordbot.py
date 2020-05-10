@@ -189,8 +189,8 @@ async def on_message(message):
           [await q.add_reaction(i) for i in ('<:kanngaeru:699072662382837881>', '🌈')] # for文の内包表記
 
      elif 4 < m < 6: #5
-          q = await message.channel.send(f"\n:point_right:roll～:game_die:   _(Dice→)_:five: \n\n-+-+-+-+-+-+-+-+-+-+-+-+-+-+-\n→mini drop:candy: \n-+-+-+-+-+-+-+-+-+-+-+-+-+-+-\n\n/tip GDRH 55 {message.author.mention}    :rainbow:")
-          [await q.add_reaction(i) for i in ('<:kanngaeru:699072662382837881>', '🌈')] # for文の内包表記          
+          q = await message.channel.send(f"\n:point_right:roll～:game_die:   _(Dice→)_:five: \n\n-+-+-+-+-+-+-+-+-+-+-+-+-+-+-\n→mini Go(5)drop:checkered_flag: \n-+-+-+-+-+-+-+-+-+-+-+-+-+-+-\n\n/tip GOGO 55 {message.author.mention}   :checkered_flag:")
+          [await q.add_reaction(i) for i in ('<:kanngaeru:699072662382837881>', '<:good:699580636448423936>')] # for文の内包表記          
         
      elif 5 < m < 7: #6
           q = await message.channel.send(f"\n:point_right:roll～:game_die:   _(Dice→)_ :six:  \n\n・。・。・。・。・。・。・。・。・。\n→mini drop:lollipop: \n・。・。・。・。・。・。・。・。・。\n\n/tip SEYU 6.6 {message.author.mention}    :rainbow:")
@@ -389,12 +389,12 @@ async def on_message(message):
           [await q.add_reaction(i) for i in ('<:kanngaeru:699072662382837881>', '<:BGPTpink:705616860955148310>')] # for文の内包表記
 
      elif 54 < m < 56: #55
-          q = await message.channel.send(f"\n:pinching_hand:roll～:game_die:  _(Dice→)_ :five::five: \n\n∽∽∽∽∽∽∽∽∽∽∽∽∽∽\n→☆mini drop:candy:☆ \n∽∽∽∽∽∽∽∽∽∽∽∽∽∽\n\n/tip BGPT 55.55 {message.author.mention}  <:BGPTpink:705616860955148310>")
-          [await q.add_reaction(i) for i in ('<:BGPT02:698471366004965406>', '<:BGPTpink:705616860955148310>')] # for文の内包表記
+          q = await message.channel.send(f"\n:pinching_hand:roll～:game_die:  _(Dice→)_ :five::five: \n\n∽∽∽∽∽∽∽∽∽∽∽∽∽∽\n→☆mini GoGo!(55)drop:checkered_flag:☆ \n∽∽∽∽∽∽∽∽∽∽∽∽∽∽\n\n/tip GOGO 55.55 {message.author.mention}   :checkered_flag:")
+          [await q.add_reaction(i) for i in ('<:good:699580636448423936>', '<:niko_shita:699072695823892561>')] # for文の内包表記
 
      elif 55 < m < 57: #56
           q = await message.channel.send(f"\n:pinching_hand:roll～:game_die:  _(Dice→)_ :five::six: \n\n∽∽∽∽∽∽∽∽∽∽∽∽∽∽\n→mini drop:candy: \n∽∽∽∽∽∽∽∽∽∽∽∽∽∽\n\n/tip BGPT 5.6 {message.author.mention}  <:BGPTpink:705616860955148310>")
-          [await q.add_reaction(i) for i in ('<:BGPT02:698471366004965406>', '<:BGPTpink:705616860955148310>')] # for文の内包表記
+          [await q.add_reaction(i) for i in ('<:BGPT02:698471366004965406>', '<:niko_shita:699072695823892561>')] # for文の内包表記
 
      elif 56 < m < 58: #57
           q = await message.channel.send(f"\n:pinching_hand:roll～:game_die:  _(Dice→)_ :five::seven: \n\n∽∽∽∽∽∽∽∽∽∽∽∽∽∽\n→mini drop:candy: \n∽∽∽∽∽∽∽∽∽∽∽∽∽∽\n\n/tip BGPT 5.7 {message.author.mention}  <:BGPTpink:705616860955148310>")
